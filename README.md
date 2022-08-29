@@ -1,2 +1,2 @@
 # SoftUni-Basics-JS
-The first step in coding
+Learning the first steps in coding
